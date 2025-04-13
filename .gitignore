@@ -5,3 +5,4 @@ __MACOSX
 .ipynb_checkpoints_old
 .ipynb_checkpoints_old_old
 __pycache__
+backtests

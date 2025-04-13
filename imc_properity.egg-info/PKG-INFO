@@ -1,0 +1,19 @@
+Metadata-Version: 2.2
+Name: imc-properity
+Version: 0.1.0
+Summary: IMC Properity Trading Project
+Author: Hank
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
