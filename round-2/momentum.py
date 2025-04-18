@@ -12,10 +12,10 @@ class Trader:
         self.price_history = []
         
         # 均值回归策略参数
-        self.ma_window = 20     # 移动平均窗口
-        self.std_window = 20    # 标准差计算窗口
-        self.dev_threshold = 1.5  # 偏离阈值(标准差倍数)
-        self.min_history = 25   # 最小历史数据长度要求
+        self.ma_window = 50     # 移动平均窗口
+        self.std_window = 50    # 标准差计算窗口
+        self.dev_threshold = 1  # 偏离阈值(标准差倍数)
+        self.min_history = 51   # 最小历史数据长度要求
         
         # 跟踪PnL表现
         self.pnl_history = []

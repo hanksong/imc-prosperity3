@@ -9,8 +9,8 @@ class Trader:
     def __init__(self):
         self.resin_position = 0
         self.position_limit = 20
-        self.buy_price = 9996  # 买入价格
-        self.sell_price = 10004  # 卖出价格
+        self.buy_price = 9998  # 买入价格
+        self.sell_price = 10002  # 卖出价格
         self.product = "RAINFOREST_RESIN"
         self.order_id = 0
     
